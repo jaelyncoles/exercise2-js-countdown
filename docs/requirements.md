@@ -12,7 +12,7 @@ By default, the app should display a countdown timer.
 
 #### Wireframe
 
-See [wireframe-js-countdown.png]()
+See [wireframe-js-countdown.png](https://github.com/bootcamp-s19/exercise2-js-countdown/blob/master/docs/wireframe-js-countdown.png)
 
 #### Tech Stack
 

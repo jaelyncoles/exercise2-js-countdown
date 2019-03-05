@@ -8,7 +8,7 @@ This project uses JavaScript for interactivity and Bootstrap v4 for basic stylin
 
 ## Project Instructions
 
-1. Read [docs/requirements.md]() fully before starting
+1. Read [docs/requirements.md](https://github.com/bootcamp-s19/exercise2-js-countdown/blob/master/docs/requirements.md) fully before starting
 
 ## Directions for use
 

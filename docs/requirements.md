@@ -43,7 +43,7 @@ To complete the assignment, you must complete the following:
 Minimally:
 
 ```
-yourappname/
+web/
     index.html - main page
     css/ - folder to contain CSS files
         /style.css - stylesheet

@@ -25,11 +25,11 @@ See [wireframe-js-countdown.png](https://github.com/bootcamp-s19/exercise2-js-co
 To complete the assignment, you must complete the following:
 ###### Setup:
 1. Fork repo `exercise2-js-countdown`
-2. locally, navigate to your `Sites` folder in the terminal
-2. git clone `your-repo-name-git` into your Sites folder
-3. create a `dev` branch to commit your code to
-4. Create necessary files for application
-5. Import necessary css/js files (Bootstrap)
+2. Locally, navigate to your `Sites` folder in the terminal
+3. `git clone` + `your-repo-name-git` into your Sites folder
+4. Create a `dev` branch to commit your code to
+5. Create necessary files for application
+6. Import necessary css/js files (Bootstrap)
 ###### Develop:
 1. Add content and elements to your website
 2. View changes locally with MAMP (localhost)
